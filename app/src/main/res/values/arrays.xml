@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="image_actions">
+        <item>Mở ảnh ở chế độ nền</item>
+        <item>Mở hình ảnh trong tab mới</item>
+    </string-array>
+
+    <string-array name="image_anchor_actions">
+        <item>Mở ảnh ở chế độ nền</item>
+        <item>Mở hình ảnh trong tab mới</item>
+        <item>Mở liên kết ở chế độ nền</item>
+        <item>Mở liên kết trong tab mới</item>
+    </string-array>
+
+    <string-array name="url_actions">
+        <item>Mở liên kết ở chế độ nền</item>
+        <item>Mở liên kết trong tab mới</item>
+    </string-array>
+</resources>
